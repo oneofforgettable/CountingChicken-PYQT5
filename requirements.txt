@@ -1,0 +1,15 @@
+pycocotools
+opencv_python
+numpy
+torch
+torchvision
+Pillow
+logger
+lap
+thop
+Cython>=0.27.3
+# window环境下
+pycocotools-windows
+cython-bbox-windows
+PyQt5
+PyQt5-tools

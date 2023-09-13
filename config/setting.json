@@ -1,0 +1,7 @@
+{
+  "match_thresh": 0.8,
+  "track_thresh": 0.3,
+  "rate": 1,
+  "check": 2,
+  "savecheck": 2
+}
